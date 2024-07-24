@@ -5,5 +5,8 @@ Minha formação: Matemática - Ciências - Analista de Sistemas - Ciências Con
 
 ### Você pode entrar em contato comigo em:
 valdirw@prof.educacao.sp.gov.br
-Estou estudando Alura (https://alura.com.br)
+
 ![]([https://tenor.com/638p.gif](https://media1.tenor.com/m/M7PSB88V03wAAAAd/dont-know-how-to-use.gif))
+
+## CURSO
+Estou estudando Alura (https://alura.com.br)
